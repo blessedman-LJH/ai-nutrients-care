@@ -5,7 +5,7 @@ import Container from './page/ask/Container';
 function App() {
   return (
     <div className="App">
-      <Container/>
+      <center><Container/></center>
     </div>
   );
 }
